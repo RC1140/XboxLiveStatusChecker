@@ -1,0 +1,12 @@
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\TestApp.LiveStatuses.resources
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\bin\Debug\LiveStatusChecker.exe.config
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\bin\Debug\LiveStatusChecker.exe
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\bin\Debug\LiveStatusChecker.pdb
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\LiveStatusChecker.Properties.Resources.resources
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\LiveStatusChecker.exe
+C:\Users\Jameel.CHASESOFTWARE\Documents\Visual Studio 2008\Projects\TestApp\TestApp\obj\Debug\LiveStatusChecker.pdb
+C:\Dev\XboxLiveStatusChecker\bin\Debug\LiveStatusChecker.exe.config
+C:\Dev\XboxLiveStatusChecker\obj\Debug\LiveStatusChecker.exe
+C:\Dev\XboxLiveStatusChecker\obj\Debug\LiveStatusChecker.pdb
